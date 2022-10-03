@@ -1,13 +1,13 @@
 # 👋 Hi there! 
 
 ## :seedling: About me
-:mortar_board: My name is Sean Fong, and I am a first-year student pursuing my Bachelors in **Computer Science** at University of California, Irvine.
+:mortar_board: My name is Sean Fong, and I am a second-year student pursuing my Bachelors in **Computer Science** at University of California, Irvine.
 
 :books: Outside of school, I am enthusiastic about learning new languages and Python libraries.
 
 :camera: When I am not programming, I enjoy playing piano, photography, building mechanical keyboards, and occasional drawing.
 
-:flower_playing_cards: I also started to read books on personal growth. My current favorite is *Connect: Building Exceptional Relationships with Family, Friends, and Colleagues* by David Bradford and Carole Robin.
+:flower_playing_cards: I also started to read books on personal growth. I am currently reading: *Connect: Building Exceptional Relationships with Family, Friends, and Colleagues* by David Bradford and Carole Robin.
 
  :airplane: I also enjoy traveling with my family, although it has been a while due to our present circumstances. My favorite trip was to Japan in 2019.
 <!--
