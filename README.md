@@ -1,4 +1,4 @@
-![Header](./github-header-image-ghlogo.png)
+![Header](./github-header-image-gh-whiteborder.png)
 
 ## Sean Fong
 [:seedling:] Hi there! I am a second-year student pursuing my Bachelors in Computer Science at University of California, Irvine.
