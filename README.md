@@ -12,9 +12,9 @@
 [ :airplane: ] I also enjoy traveling to different destinations with my family. My latest trip was to Alaska (August 2022).
 
 
-## Exhibition
+## Metrics
 <!--- Format for 2-columntable -->
-| [![Sean's github stats](https://github-readme-stats.vercel.app/api?username=cnfgsean&count_private=true&show_icons=true&theme=nord&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) | [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) <br/> [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seancfong@gmail.com)             <br/> [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/seancfong/) <br/> <!--- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) <br/> [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) -->
+| [![Sean's github stats](https://github-readme-stats.vercel.app/api?username=seancfong&count_private=true&show_icons=true&theme=nord&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) | [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) <br/> [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seancfong@gmail.com)             <br/> [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/seancfong/) <br/> <!--- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) <br/> [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) -->
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 
 
