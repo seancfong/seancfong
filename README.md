@@ -3,11 +3,13 @@
 ## About me
 [ :seedling: ] Hi there! I am a third-year student majoring in Computer Science at UC Irvine.
 
-[ :books: ] I enjoy learning new things to do, such as building full-stack web projects and hackathons!
+[ :office: ] I am also a part-time front-end developer at CORSAIR.
 
-[ :camera: ] When I am not programming, I enjoy playing piano, photography, and building mechanical keyboards.
+[ :books: ] Exploring new things keeps me occupied, such as building full-stack web projects and winning hackathons!
 
-[ :airplane: ] I also enjoy traveling to different destinations with my family. My latest trip was to Catalina Island (August 2023).
+[ :camera: ] During my free time, I enjoy playing piano, photography, and building mechanical keyboards.
+
+[ :airplane: ] I also travel to different places worldwide! My latest trip was to Catalina Island (August 2023).
 
 
 ## Metrics
