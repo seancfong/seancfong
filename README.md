@@ -3,11 +3,9 @@
 ## About me
 [ :seedling: ] Hi there! I am a third-year student majoring in Computer Science at UC Irvine.
 
-[ :office: ] I am also a part-time front-end developer at CORSAIR.
+[ :office: ] I am also a part-time front-end developer at CORSAIR and a software developer at Commit the Change, UCI.
 
-[ :books: ] Exploring new things keeps me occupied, such as building full-stack web projects and winning hackathons!
-
-[ :camera: ] During my free time, I enjoy playing piano, photography, and building mechanical keyboards.
+[ :books: ] Exploring new things keeps me occupied, such as building full-stack web projects and doing hackathons!
 
 [ :airplane: ] I also travel to different places worldwide! My latest trip was to Catalina Island (August 2023).
 
