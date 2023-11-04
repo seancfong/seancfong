@@ -1,4 +1,4 @@
-![Header](./github-header-image-gh-whiteborder.png)
+![Header](./assets/github-header-banner-preem.png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seancfong/seancfong/65c8709d002cac8fa7787ba4260a9f379a5cec23/github-contribution-grid-snake-dark.svg">
