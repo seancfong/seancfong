@@ -1,6 +1,6 @@
 ## hellos!
 
-[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seancfong.com/) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seancfong@gmail.com) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/)
+[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seancfong.com/) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seancfong/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seancfong@gmail.com)
 
 [ :seedling: ] My name is Sean, and I am a third-year student majoring in Computer Science at UC Irvine.
 
@@ -8,7 +8,7 @@
 
 [ :books: ] Exploring new things keeps me occupied, such as building full-stack web projects and doing hackathons!
 
-[ :airplane: ] I also travel to different places worldwide! My latest trip was to Catalina Island (August 2023).
+[ :airplane: ] I also travel to different places worldwide! My latest trip was to Southern Caribbean (December 2023).
 
 <details>
  <summary>Credits</summary>
