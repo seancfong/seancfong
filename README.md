@@ -69,6 +69,7 @@
   Organizations:
     + <a href="https://github.com/icssc/ZotMeet">ZotMeet</a> [ICS Student Council] - Scheduling Meetings for UCI students
     + <a href="https://ctc-uci.com/projects">AISS</a> [Commit the Change UCI] - Dashboard for rising scholars
+    + <a href="https://ieee.ics.uci.edu/">IEEE at UCI</a> [IEEE at UCI] - Webmaster, working on a site-wide redesign
   
   Award Winning Hackathon Projects:
     + <a href="https://github.com/seancfong/irvinesweeper">IrvineSweeper</a> - Best Overall Hack @ Hack at UCI 2023
