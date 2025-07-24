@@ -10,13 +10,8 @@
   \__ \  __/ (_| | | | | |  _| (_) | | | | (_| |
   |___/\___|\__,_|_| |_| |_|  \___/|_| |_|\__, |
                                           |___/
-                  - a software developer and computer science 
-                    student at UC Irvine.
-
-  Who also is a:
-      + <a href="https://www.corsair.com/us/en">Front-end Developer at CORSAIR</a>
-      + <a href="https://github.com/icssc/ZotMeet">Project Lead for ZotMeet at ICSSC</a>
-      + <a href="https://ieee.ics.uci.edu/">Webmaster at UCI IEEE Student Branch</a>
+  
+      + <a href="https://www.judgmentlabs.ai">Founding Software Engineer at Judgment Labs</a>
 </pre>
 
 > ```console
