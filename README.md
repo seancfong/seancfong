@@ -11,7 +11,7 @@
   |___/\___|\__,_|_| |_| |_|  \___/|_| |_|\__, |
                                           |___/
   
-      + <a href="https://www.judgmentlabs.ai">Founding Software Engineer at Judgment Labs</a>
+      + <a href="https://www.judgmentlabs.ai">Founding Member of Technical Staff at Judgment Labs. Software & Design Engineer.</a>
 </pre>
 
 > ```console
@@ -19,7 +19,7 @@
 > ```
 
 <pre>
-  <a href="https://www.linkedin.com/in/seancfong/">linkedin</a>  <a href="https://www.seancfong.com/">portfolio</a>  <a href="https://www.seancfong.com/bulletin">bulletin</a>  stacks  projects
+  <a href="https://www.linkedin.com/in/seancfong/">linkedin</a>  <a href="https://www.seancfong.com/">portfolio</a>  stacks  projects
 </pre>
 
 > ```console
@@ -48,28 +48,3 @@
 > ```console
 > seancfong@github:~$ cat projects
 > ```
-
-<pre>
-                   _           _       
-   _ __  _ __ ___ (_) ___  ___| |_ ___ 
-  | '_ \| '__/ _ \| |/ _ \/ __| __/ __|
-  | |_) | | | (_) | |  __/ (__| |_\__ \
-  | .__/|_|  \___// |\___|\___|\__|___/
-  |_|           |__/                        - and hackathons and more!
-
-  Personal Endeavors:
-    + <a href="https://www.seancfong.com/bulletin">The Bulletin @ seancfong</a> - Personal Blog Website
-    + Orbit [In Progress] - Goal-oriented calendar and task management
-
-  Organizations:
-    + <a href="https://github.com/icssc/ZotMeet">ZotMeet</a> [ICS Student Council] - Scheduling Meetings for UCI students
-    + <a href="https://ctc-uci.com/projects">AISS</a> [Commit the Change UCI] - Dashboard for rising scholars
-    + <a href="https://ieee.ics.uci.edu/">IEEE at UCI</a> [IEEE at UCI] - Webmaster, working on a site-wide redesign
-  
-  Award Winning Hackathon Projects:
-    + <a href="https://github.com/seancfong/irvinesweeper">IrvineSweeper</a> - Best Overall Hack @ Hack at UCI 2023
-    + <a href="https://github.com/johnlorenzini/zotology">Zotology</a> - 3rd place @ UCI WebReg Hackathon
-    + <a href="https://github.com/seancfong/duckducksmog">DuckDuckSmog</a> - Top 5 finalist @ LA Hacks 2023
-    + <a href="https://github.com/seancfong/goofy-ahh-scientists">Montreal Crime</a> - Board's Pick @ Embark Datathon 2023
-
-</pre>
